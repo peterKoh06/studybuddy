@@ -1,4 +1,11 @@
-import tkinter as TK 
+import tkinter as tk
+from tkinter import ttk
 
-root = tk.TK()
+root = tk.Tk()
+
+root.geometry("1200x900")
+
+
+
+
 root.mainloop()
